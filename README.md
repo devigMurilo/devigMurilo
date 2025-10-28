@@ -1,8 +1,8 @@
 # Igor-Murilo
-# 👋 Olá, eu sou o Igor!
+# 👋 Olá, eu sou Igor Murilo!
 
-Sou desenvolvedor apaixonado por tecnologia e inovação.  
-Atualmente focado em **Django**, **Python** e **desenvolvimento web**.
+Sou um estudante de infotmatica para internet e apaixonado por ti 
+Atualmente estuando: **Django**, **Python** e **desenvolvimento web**.
 
 ---
 
@@ -18,15 +18,15 @@ Atualmente focado em **Django**, **Python** e **desenvolvimento web**.
 ---
 
 ## 💼 Projetos em destaque
-- 🧩 [BE-Desk](https://github.com/seuuso/BE-Desk): sistema de reservas com Django  
-- 🌐 [Meu Portfólio](https://seusite.github.io): página pessoal com HTML e CSS  
+- 🧩 [BE-Desk](https://github.com/WilliannyLima/BE-Desk): sistema de reservas com Django  
+
 
 ---
 
 ## 📫 Como me encontrar
-- ✉️ Email: [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)
-- 🐙 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- ✉️ Email: [igormurilo.ac.21@gamil.com](mailto:igormurilo.ac.21@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/igor-murilo-68a487386/](https://www.linkedin.com/in/igor-murilo-68a487386/)
+
 
 ---
 
