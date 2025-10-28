@@ -1,12 +1,12 @@
 # Igor-Murilo
 # 👋 Olá, eu sou Igor Murilo!
 
-Sou um estudante de infotmatica para internet e apaixonado por ti 
+Sou um estudante de informática para internet e apaixonado por TI 
 Atualmente estuando: **Django**, **Python** e **desenvolvimento web**.
 
 ---
 
-## 🚀 Tecnologias que uso
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
@@ -30,4 +30,4 @@ Atualmente estuando: **Django**, **Python** e **desenvolvimento web**.
 
 ---
 
-⭐ **“Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” – Leonardo da Vinci**
+⭐ **“É o grau de comprometimento que determina o sucesso, não o número de seguidores.” – Remo Lupin**
