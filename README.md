@@ -1,7 +1,7 @@
 # Igor-Murilo
 # 👋 Olá, eu sou Igor Murilo!
 
-cursando: **informática para internet.**<br>
+Cursando: **informática para internet.**<br>
 Atualmente estuando: **Django**, **Python** e **desenvolvimento web**.
 
 ---
