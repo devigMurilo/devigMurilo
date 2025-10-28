@@ -16,7 +16,7 @@ Atualmente estuando: **Django**, **Python** e **desenvolvimento web**.
   <img align="center" alt="CSS3" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
---
+
 ## 💼 Projetos em destaque
  🧩 [BE-Desk](https://github.com/WilliannyLima/BE-Desk): sistema de reservas com Django  
  
