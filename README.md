@@ -4,7 +4,7 @@
 
 
 Cursando: **informática para internet.**<br>
-Atualmente estudando: **Django**, **Python** e **desenvolvimento web**.
+Atualmente estudando: **javascript**, **typescript** e **desenvolvimento web**.
 
 ---
 
