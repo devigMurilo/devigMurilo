@@ -3,8 +3,8 @@
 
 
 
-Cursando: **informática para internet.**<br>
-Atualmente estudando: **javascript** e **Frameworks**.
+Studying: **Internet Informatics.**  
+Currently learning: **JavaScript** and **Frameworks**.
 
 ---
 
@@ -40,13 +40,12 @@ Atualmente estudando: **javascript** e **Frameworks**.
 </div>
 
 
-
-## 💼 Projetos em destaque
- 🧩 [BE-Desk](https://github.com/WilliannyLima/BE-Desk): sistema de reservas com Django  
+## 💼 Featured Projects
+🧩 [BE-Desk](https://github.com/WilliannyLima/BE-Desk): reservation system built with Django
  
 ---
 
-## 📫 Como me encontrar
+## 📫 How to reach me
  ✉️ **Email**: [igormurilo.ac.21@gmail.com](mailto:igormurilo.ac.21@gmail.com)<br>
  💼 **LinkedIn**: [https://www.linkedin.com/in/igor-murilo/](https://www.linkedin.com/in/igor-murilo-68a487386/)
 
