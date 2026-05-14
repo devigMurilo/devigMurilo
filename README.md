@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364a8&height=190&section=header&text=Hellow,%20Word!!&fontColor=ffffff&fontSize=40&textY=35"/>
 
 Studying: **Internet Informatics.**  
-Currently learning: **JavaScript** and **Frameworks**.
+Currently learning: **JavaScript**, **Django Rest** and **API Rest**.
 
 ---
 
@@ -18,7 +18,10 @@ Currently learning: **JavaScript** and **Frameworks**.
 </div>
 
 ## 💼 Featured Projects
-🧩 [BE-Desk](https://github.com/WilliannyLima/BE-Desk): reservation system built with Django
+[BE-Desk](https://github.com/WilliannyLima/BE-Desk): reservation system built with Django
+[SuapHub](https://github.com/devigMurilo/Integra-o_Suap.git): Consumes the SUAP API to extract student data and present it in a clear and intuitive way.(Still in development)
+
+
 
 ---
 
