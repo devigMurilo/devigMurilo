@@ -18,7 +18,7 @@ Currently learning: **JavaScript**, **Django Rest** and **API Rest**.
 </div>
 
 ## 💼 Featured Projects
-[BE-Desk](https://github.com/WilliannyLima/BE-Desk): reservation system built with Django <br>
+[BE-Desk](https://github.com/WallisonAndre/BE-Desk): reservation system built with Django <br>
 [SuapHub](https://github.com/devigMurilo/Integra-o_Suap.git): Consumes the SUAP API to extract student data and present it in a clear and intuitive way.(Still in development)
 
 
