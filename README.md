@@ -13,9 +13,13 @@ Currently learning: **JavaScript**, **Django Rest** and **API Rest**.
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img alt="CSS3" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img alt="Git" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>&nbsp;
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img alt="React" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="Node.js" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img alt="Docker" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img alt="MySQL" height="80" width="90" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </div>
+
+
 
 ## 💼 Featured Projects
 [BE-Desk](https://github.com/WallisonAndre/BE-Desk): reservation system built with Django <br>
