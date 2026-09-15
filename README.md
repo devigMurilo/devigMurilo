@@ -2,12 +2,13 @@
 Studying: **Internet Informatics.**  
 Currently learning: **JavaScript**, **Django Rest** and **API Rest**.
 
-<div ><br>
+<div><br>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img alt="Python" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img alt="Django" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a>&nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank" rel="noopener noreferrer"><img alt="HTML5" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>&nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img alt="CSS3" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img alt="Git" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img alt="Linux" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>&nbsp;
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img alt="React" height="50" width="60" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img alt="Node.js" height="50" width="50" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></a>&nbsp;
